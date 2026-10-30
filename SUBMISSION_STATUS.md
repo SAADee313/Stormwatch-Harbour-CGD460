@@ -1,0 +1,1 @@
+Student ID 231713. Phase 4 LLM evaluation interrupted on seed 15. Four paired seeds 11-14 complete; seed 15 utility only. Injection tests 10/60 trials complete. Do not claim full completion. Existing --approve-dangerous flag is a testing bypass, not interactive approval. Run `python run.py --agent utility --seed 11` to reproduce one result.
