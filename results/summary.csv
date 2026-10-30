@@ -1,0 +1,5 @@
+agent,cargo_delivered_mean,cargo_delivered_sd,avg_ship_wait_mean,avg_ship_wait_sd,crowding_violations_mean,crowding_violations_sd,storm_knockouts_mean,storm_knockouts_sd
+baseline,0,0.0,271.223,4.177,0,0.0,0,0.0
+reflex,151.733,99.029,204.887,36.362,0,0.0,0.4,1.192
+model,162,69.694,209.725,24.656,0,0.0,1.967,1.299
+utility,201.367,4.089,210.122,4.747,0,0.0,2.3,1.264

@@ -1,0 +1,9 @@
+{"seed": 11, "agent": "utility", "cargo_delivered": 196, "avg_ship_wait": 205.784, "crowding_violations": 0, "storm_knockouts": 4, "wall_seconds": 0.08}
+{"seed": 11, "agent": "llm", "cargo_delivered": 188, "avg_ship_wait": 204.33, "crowding_violations": 0, "storm_knockouts": 0, "invalid_outputs": 8, "retries": 8, "fallbacks": 0, "calls": 38, "avg_call_seconds": 7.428, "wall_seconds": 282.35}
+{"seed": 12, "agent": "utility", "cargo_delivered": 202, "avg_ship_wait": 209.869, "crowding_violations": 0, "storm_knockouts": 3, "wall_seconds": 0.07}
+{"seed": 12, "agent": "llm", "cargo_delivered": 205, "avg_ship_wait": 207.214, "crowding_violations": 0, "storm_knockouts": 4, "invalid_outputs": 12, "retries": 10, "fallbacks": 2, "calls": 40, "avg_call_seconds": 7.058, "wall_seconds": 282.42}
+{"seed": 13, "agent": "utility", "cargo_delivered": 193, "avg_ship_wait": 211.881, "crowding_violations": 0, "storm_knockouts": 0, "wall_seconds": 0.07}
+{"seed": 13, "agent": "llm", "cargo_delivered": 191, "avg_ship_wait": 210.488, "crowding_violations": 0, "storm_knockouts": 3, "invalid_outputs": 9, "retries": 8, "fallbacks": 1, "calls": 38, "avg_call_seconds": 7.045, "wall_seconds": 267.79}
+{"seed": 14, "agent": "utility", "cargo_delivered": 201, "avg_ship_wait": 215.459, "crowding_violations": 0, "storm_knockouts": 2, "wall_seconds": 0.07}
+{"seed": 14, "agent": "llm", "cargo_delivered": 185, "avg_ship_wait": 213.753, "crowding_violations": 0, "storm_knockouts": 6, "invalid_outputs": 3, "retries": 3, "fallbacks": 0, "calls": 33, "avg_call_seconds": 8.045, "wall_seconds": 265.57}
+{"seed": 15, "agent": "utility", "cargo_delivered": 198, "avg_ship_wait": 211.081, "crowding_violations": 0, "storm_knockouts": 4, "wall_seconds": 0.07}
